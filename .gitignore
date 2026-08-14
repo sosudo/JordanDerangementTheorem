@@ -1,0 +1,5 @@
+/.lake
+
+# Macos
+.DS_Store
+.unity/
